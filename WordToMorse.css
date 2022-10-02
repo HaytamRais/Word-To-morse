@@ -1,0 +1,21 @@
+body {
+  display: block;
+  justify-content: center;
+}
+#word {
+  font-size: 100px;
+  background-color: chartreuse;
+  text-align: center;
+}
+#conv {
+  font-size: 50px;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 30px;
+}
+#conv:hover {
+  background-color: orange;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 60px;
+  box-shadow: 10px 10px 5px;
+}
